@@ -1,0 +1,44 @@
+{
+  "engine": "REA_Reverse_Engineer_Anything",
+  "status": "STRUCTURE_RECONSTRUCTED",
+  "analyzed_files": 12,
+  "manifest": {
+    "Beginner_Notebook_qiskit_fundamentals (1).ipynb": {
+      "bytes": 588924
+    },
+    "Cyan Gradient Technology Startup Business Company Presentation (1).pdf": {
+      "bytes": 6566612
+    },
+    "Guidelines to support start-ups.pdf nqmindia.pdf": {
+      "bytes": 476099
+    },
+    "MAJones_PhDThesis.pdf": {
+      "bytes": 8347393
+    },
+    "Post_Quantum_Cryptography_Techniques_Cha.pdf": {
+      "bytes": 430963
+    },
+    "ppts_bagalore_cdac_course": {
+      "bytes": 74
+    },
+    "SchemeId_2332_NQMCallDocumentforPre_Proposals.docx": {
+      "bytes": 367970
+    },
+    "scripts\\rea_inspector.py": {
+      "bytes": 1485
+    },
+    "scripts\\rsi_engine.py": {
+      "bytes": 2039
+    },
+    "tests\\reality_check_harness.py": {
+      "bytes": 1250
+    },
+    ".github\\workflows\\ci.yml": {
+      "bytes": 647
+    },
+    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
+      "bytes": 531
+    }
+  },
+  "timestamp": 1794028354
+}
